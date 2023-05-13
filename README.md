@@ -4,7 +4,7 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElaynaSeguin&show_icons=true&theme=merko)-->
 <img src="Elayna's Github.png" alt="">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElaynaSeguin&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElaynaSeguin&show_icons=true&theme=synthwave)
 
 <b>About Me</b><br>
 :school: Member of the SJSU Robotics Club, Controls/Intelligent Systems(2022 - present)<br>
