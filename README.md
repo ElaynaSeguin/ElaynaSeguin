@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElaynaSeguin&show_icons=true&theme=tokyonight)
+<img src="Elayna's Github.png" alt="">
