@@ -5,3 +5,5 @@
 <img src="Elayna's Github.png" alt="">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElaynaSeguin&show_icons=true&theme=tokyonight)
+
+<p style="font-size:18px; color:#8ebf42; font-family:arial;">About Me</p>
