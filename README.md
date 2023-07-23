@@ -10,4 +10,4 @@
 :school: Member of the SJSU Robotics Club, Controls/Intelligent Systems(2022 - present)<br>
 :hammer: I am currently working on a sensor fusion project, merging camera and LiDAR input for obstacle detection (SJSU Robotics) <br>
 :book: Always reading to learn new skills to improve my coding abilities <br>
-:computer: Software Intern at LM :rocket: :stars: (2022 - present)<br>
+:computer: Software Engineer Intern at LM :rocket: :stars: (2022 - present)<br>
